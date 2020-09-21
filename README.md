@@ -1,2 +1,2 @@
 # Emory-ISOM675-Data-Visualization
-Create meaningful visualizations in R , Tabluea, Python, Excel, and Power BI
+Create meaningful visualizations in R , Tableau, Python, Excel, and Power BI
