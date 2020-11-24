@@ -1,0 +1,20 @@
+type,gov_policy,detail,start_date,end_date,
+Alert,Infectious Disease Alert Level 2,Level 2 (Yellow),1/20/2020,1/27/2020,http://www.kyeonggi.com/news/articleView.html?idxno=2330244
+Alert,Infectious Disease Alert Level 3,Level 3 (Orange),1/28/2020,2/22/2020,http://www.kyeonggi.com/news/articleView.html?idxno=2330244
+Alert,Infectious Disease Alert Level 4,Level 4 (Red),2/23/2020,,http://www.kyeonggi.com/news/articleView.html?idxno=2330244
+Immigration,Special Immigration Procedure,from all the countries,3/19/2020,,https://www.bbc.com/korean/news-51541321
+Immigration,Mandatory 14-day Self-Quarantine,from all the countries,4/1/2020,,http://overseas.mofa.go.kr/us-losangeles-ko/brd/m_22346/view.do?seq=1
+Health,Drive-Through Screening Center,"by Local Government,Standard Operating Procedures",2/26/2020,,https://www.chosun.com/site/data/html_dir/2020/05/01/2020050101495.html
+Health,Mask Distribution,Public-Sale,2/27/2020,,http://ncov.mohw.go.kr/maskBoardList.do?brdId=3&brdGubun=36
+Social,Social Distancing Campaign (Strong),Strong,2/29/2020,4/19/2020,https://news.seoul.go.kr/welfare/archives/524124
+Social,Social Distancing Campaign (Weak),Weak,4/20/2020,,https://news.seoul.go.kr/welfare/archives/524124
+Technology,Self-Diagnosis App,,2/12/2020,,http://ncov.mohw.go.kr/selfcheck/#app_2
+Technology,Self-Quarantine Safety Protection App,,3/7/2020,,http://overseas.mofa.go.kr/us-atlanta-ko/brd/m_22310/view.do?seq=34
+Technology,Electronic Wristbands,on people who violate self-quarantine measures,4/27/2020,,https://news.joins.com/article/23752328
+Administrative,Close bars and clubs,administrative order to close bars and clubs,5/8/2020,6/7/2020,https://www.donga.com/news/Society/article/all/20201026/103625377/1
+Administrative,local government Administrative orders,"Gathering limited administrative orders for nursing homes, elderly day care centers and mental hospitals used by vulnerable groups",5/16/2020,,https://news.seoul.go.kr/welfare/archives/524124
+Administrative,Close karaoke,Ban on gathering for 2 weeks for all karaoke and coin karaoke,5/21/2020,6/3/2020,https://www.donga.com/news/Society/article/all/20201026/103625377/1
+Transformation,Logistics center,On-site inspection of major logistics facilities such as courier terminals and warehouses,5/29/2020,6/11/2020,https://www.bbc.com/korean/news-52832084
+Transformation,Wearing of masks,"Mandatory wearing of passenger mask domestic, international teminal in the airport,Drivers such as buses and taxis can refuse to ride passengers without masks",5/26/2020,,https://news.seoul.go.kr/welfare/archives/524124
+Technology,KI-Pass: Korea Internet - Pass,"new quick response (QR) code system this week to log visitors at high-risk entertainment facilities, restaurants and churches in a bid to track coronavirus cases and prevent further spread of the disease",6/10/2020,,https://cn.reuters.com/article/instant-article/idUSKBN23907E
+Health,Extends Tightened Quarantine Measures ,Gov't Extends Tightened Quarantine Measures in Seoul Metro Area,5/28/2020,6/14/2020,https://news.seoul.go.kr/welfare/archives/524124
